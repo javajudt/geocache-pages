@@ -1,6 +1,10 @@
 # Geocaches by JavaJudt
 
-This repository contains the descriptions for all of my active geocaches. See something that needs changed, added, or removed? Feel free to edit and submit a pull request!
+[JavaJudt's Geocaching.com profile](https://www.geocaching.com/p/default.aspx?guid=671d8afd-41ed-4c50-8e8d-89ac675109fc)
+
+This repository contains the descriptions for all of my active geocaches. See something that needs changed, added, or removed? Feel free to edit and submit a pull request for consideration!
+
+Below you will find all caches in this repository organized by name, region, cache type, and geoart/series. Click a heading to expand the cache list. Click the GC code to go to the cache listing on Geocaching.com, and click the cache name to go to the source code.
 
 <details>
 <summary>Alphabetical</summary>
