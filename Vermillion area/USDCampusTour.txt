@@ -1,0 +1,45 @@
+<!-- Cache info -->
+<p style="text-align:center; font-size:large;">Welcome to</p>
+<p style="text-align:center; font-size:24px; color:#ff0000;">The University of South Dakota</p>
+<p style="text-align:center; font-size:large;">Campus Tour!</p>
+<p style="text-align:center; font-size:medium; color:#0000ff;">Please note: This is a Wherigo cache. It requires you to download the corresponding cartridge from Wherigo.com and play it on a Wherigo-enabled GPSr or smartphone.<br><a href="http://www.wherigo.com/cartridge/details.aspx?CGUID=3f09383a-1d75-481e-ac57-fcee0a968992" target="_blank">Click here to visit the cartridge page on wherigo.com.</a></p>
+<hr width="10">
+<p style="text-align:center; font-size:large;">First, here's some brief history about the university. This text is quoted from an informational sign on campus.</p>
+<p style="text-align:center; font-size:medium; color:#808080;">The University of South Dakota (USD) was Dakota Territory's first university. Proposed during the 1862 legislative assembly, it was originally called the University of Dakota.</p>
+<p style="text-align:center; font-size:medium; color:#808080;">Governor Jayne signed the bill in April 1862, but details were not discussed until the legislative session that December. Five types of instruction were to be offered: science, literature and art, law, medicine, training in "elementary instruction," and agriculture. Construction did not begin until 1882, however, due to lack of funds. When an agricultural college was created at Brookings in 1881, posing a threat to Vermillion's university, the Clay County commissioners issued a $10,000 bond to start construction.</p>
+<p style="text-align:center; font-size:medium; color:#808080;">Initial construction included University Hall (1883), which held classrooms and offices, and West (1885) and East (1887) Halls, which served as dormitories. An increase in enrollment created new programs in law and music (1901) and engineering and medicine (1907). Buildings such as Science Hall (1902), Armory Hall (1905), Law (1908), the Library (1911), and Chemistry (1915) were constructed to meet demands. Of the three original buildings, only East Hall stands today.</p>
+<p style="text-align:center; font-size:medium; color:#808080;">As of 2011, USD offers 132 undergraduate and 62 graduate programs and educates 70 percent of attorneys, 48 percent of physicians, and 50 percent of teachers in South Dakota.</p>
+<hr width="10">
+<p style="text-align: center; font-size: large; color: #ff4242;">This tour will take you from the south side of campus to the north side. Please note: The tour does not start where the cache's coordinates are. I did that to avoid cluttering icons on the map. You can find the starting location as waypoint "Start Here", or just boot up your Wherigo player and it'll tell you where to go! You may be able to drive close to some of the later stages if you so choose; otherwise biking or walking will work great!</p>
+<p style="text-align: center; font-size: large; color: #8a0000;">We will take you on a 9-stage tour of some of the campus's historical, unique, and lesser known spots. There is a final geocache container at the 9th stage. Of course, we can't fit EVERYTHING in, so I encourage you to check out some of the artwork and other buildings located around campus! There are several other geocaches scattered around, so you may like to watch for those as well! On average, it has been taking about 45 minutes walking from start to end. If you don't have time to complete it today, you can always start and pick up later where you left off.</p>
+<p> </p>
+<p style="text-align: center; font-size: large; color: #0000ff;">Enjoy the tour!</p>
+
+<!-- Template -->
+<p>&nbsp;</p>
+<p style="text-align: center; font-size: large;"><em>~ Congrats on FTF to 5-4-Fun and stlee! ~</em></p>
+
+<!-- A cache by 'PuterBoy -->
+<p style="text-align: center;"><a title="'PuterBoy" href="http://www.jordanjudt.com/" target="_blank"><img src="http://img.jordanjudt.com/puterboy" alt="'PuterBoy" width="250" /></a></p>
+
+<!-- Nebraskache/GoNE -->
+<table style="margin-left: auto; margin-right: auto; height: 160px;" width="522">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle;">
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank"><img src="http://img.jordanjudt.com/nebraskache" alt="Nebraskache Logo" width="175" /></a></p>
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank">Nebraskache Yahoo Group</a>
+<br><a title="Nebraskache - Facebook" href="https://www.facebook.com/groups/nebraskache/" target="_blank">Nebraskache Facebook Page</a></p>
+</td>
+
+<td style="vertical-align: middle; text-align: center;">
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank"><img src="http://geocachersofne.com/logo/support_logo.jpg" alt="Supporter of GoNE" width="125" /></a></p>
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank">GoNE Website</a>
+<br><a title="GoNE (Geocachers of NEbraska) - Facebook" href="https://www.facebook.com/groups/GeocachersofNE/" target="_blank">GoNE Facebook Page</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>

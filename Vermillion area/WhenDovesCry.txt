@@ -1,0 +1,33 @@
+<!-- Cache info -->
+<p style="text-align: center; font-size: large; color: #0468e1;">Dig, if you will, this picture: I was shopping and happened by an end cap of this container. I immediately threw one in the cart because I knew it would make a fun hide!</p>
+<p style="text-align: center; font-size: large; color: #023a7e;">There's a nice view of the DakotaDome and Vermillion's water tower from here to the southwest. Just don't blame me when you're left standing alone in a world that's so cold.</p>
+<p style="text-align: center; font-size: large; color: #0468e1;">Who knows, if you listen closely, maybe you'll find out what it sounds like when doves cry! <img src="/images/icons/icon_smile.gif" border="0" align="middle" /></p>
+
+<!-- Template -->
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center; font-size: large;"><em>~ Congrats on FTF to swissbear! ~</em></p>
+
+<!-- A cache by 'PuterBoy -->
+<p style="text-align: center;"><a title="'PuterBoy" href="http://www.jordanjudt.com/" target="_blank"><img src="http://img.jordanjudt.com/puterboy" alt="'PuterBoy" width="250" /></a></p>
+
+<!-- Nebraskache/GoNE -->
+<table style="margin-left: auto; margin-right: auto; height: 160px;" width="522">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle;">
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank"><img src="http://img.jordanjudt.com/nebraskache" alt="Nebraskache Logo" width="175" /></a></p>
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank">Nebraskache Yahoo Group</a>
+<br><a title="Nebraskache - Facebook" href="https://www.facebook.com/groups/nebraskache/" target="_blank">Nebraskache Facebook Page</a></p>
+</td>
+
+<td style="vertical-align: middle; text-align: center;">
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank"><img src="http://geocachersofne.com/logo/support_logo.jpg" alt="Supporter of GoNE" width="125" /></a></p>
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank">GoNE Website</a>
+<br><a title="GoNE (Geocachers of NEbraska) - Facebook" href="https://www.facebook.com/groups/GeocachersofNE/" target="_blank">GoNE Facebook Page</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>

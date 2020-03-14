@@ -1,0 +1,41 @@
+<!-- Cache info -->
+<p style="text-align: center; font-size: large; color: #008000;"><em>Aloha from Nebraska!</em></p>
+<p style="text-align: center; font-size: large; color: #0468e1;">While vacationing in beautiful Hawai'i, GeoJudt and I thought it would be fun to place a couple caches.</p>
+<p style="text-align: center; font-size: large; color: #023a7e;">This cache will take you to a shrine near Halona Blow Hole. The blow hole is an amazing spectacle of nature. Just go to the observation point to watch.</p>
+<p style="text-align: center; font-size: large; color: #0468e1;">Please park in the pulloff area. Shouldn't be too hard of a find for the veteran cacher. Hopefully not for newbies, either, but you never know.</p>
+
+<!-- Template -->
+<p>&nbsp;</p>
+<p style="text-align: center; font-size: large;"><em>~ Congrats on FTF to Skotlee! ~</em></p>
+
+<!-- A cache by 'PuterBoy -->
+<p style="text-align: center;"><a title="'PuterBoy" href="http://www.jordanjudt.com/" target="_blank"><img src="http://img.jordanjudt.com/puterboy" alt="'PuterBoy" width="250" /></a></p>
+
+<!-- Nebraskache/GoNE -->
+<table style="margin-left: auto; margin-right: auto; height: 160px;" width="522">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle;">
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank"><img src="http://img.jordanjudt.com/nebraskache" alt="Nebraskache Logo" width="175" /></a></p>
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank">Nebraskache Yahoo Group</a>
+<br><a title="Nebraskache - Facebook" href="https://www.facebook.com/groups/nebraskache/" target="_blank">Nebraskache Facebook Page</a></p>
+</td>
+
+<td style="vertical-align: middle; text-align: center;">
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank"><img src="http://geocachersofne.com/logo/support_logo.jpg" alt="Supporter of GoNE" width="125" /></a></p>
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank">GoNE Website</a>
+<br><a title="GoNE (Geocachers of NEbraska) - Facebook" href="https://www.facebook.com/groups/GeocachersofNE/" target="_blank">GoNE Facebook Page</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p style="text-align:center;"><small>Note: GeoGerms has agreed to maintain this cache as needed.</small></p>
+
+<!-- Start of StatCounter Code for Default Guide -->
+<div class="statcounter"><a title="free hit counter" href="http://statcounter.com/p9977278/?guest=1" target="_blank"><img class="statcounter" src="http://c.statcounter.com/9977278/0/1646f2f4/0/" alt="free hit counter" /></a></div>
+<!-- End of StatCounter Code for Default Guide -->
+<a target="_blank" href="http://statcounter.com/p9977278/?guest=1">Click to View Stats</a>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>

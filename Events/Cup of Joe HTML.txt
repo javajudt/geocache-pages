@@ -1,0 +1,40 @@
+<p style="color:darkblue;">Quick Info:</p>
+<p style="color:cornflowerblue;">What: Join us for a Cup of Joe, a monthly meet-and-greet<br />
+When: Saturday, June 27, 10am-11am (approximate times)<br />
+Where: Burger King (13th Street)</p>
+
+<hr width = "10"/>
+<br />
+<p align="center"><font size="5" color="#800080">Come join the Northeast Nebraska Geocachers at</font></p>
+<p align="center"><font size="5" color="#800080">Join Us for a Cup of Joe Series - June 2015</font></p>
+<p align="center"> </p>
+<p align="center">Please come and “Join Us for a Cup of Joe” to share caching adventures, misadventures, and what ever else you care to share.  Whether you are a caching veteran or new to the madness, bring your stories, questions, and expertise and let's have some fun!!</p>
+<p align="center"><br />
+<font color="#800000">June’s event will run from</font> <font color="#FF0000">10:00 am - 11:00 am (but usually runs longer!)</font> <font color="#800000">and take place at <b>Burger King (13th Street)</b> in Norfolk, NE</font></p>
+<p align="center"> </p>
+<p align="center">There is wireless internet available but we may not have access to the electrical outlets, so make sure your batteries are charged up!  Burger King offers an assortment of goodies, but no purchase is required to join in the fun.<br />
+Please try to let us know in advance if you plan to be there by posting a "Will Attend."</p>
+<p align="center"> </p>
+<p align="center"><font color="#FF0000" size="5">Hope to see you there!</font></p>
+<p align="center"> </p>
+<p align="center"><a href="http://groups.yahoo.com/group/Nebraskache/"><img border="0" src="http://img.geocaching.com/cache/large/3ab1f796-0f20-4aeb-8dfe-f9dbcbfa7236.jpg" width="224" height="112" /></a></p>
+<p align="center"><a href="http://groups.yahoo.com/group/Nebraskache/"><font size="4">Hosted by Nebraskache Members</font></a></p>
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10483214; 
+var sc_invisible=0; 
+var sc_security="3cfcff20"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="shopify
+analytics tool" target="_blank" href="http://statcounter.com/p10483214/?guest=1"><img class="statcounter"
+src="http://c.statcounter.com/10483214/0/3cfcff20/0/"
+alt="shopify analytics tool"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a target="_blank" href="http://statcounter.com/p10483214/?guest=1">Click to
+View Stats</a>

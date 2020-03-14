@@ -1,0 +1,32 @@
+<!-- Cache info -->
+<p style="text-align: center; font-size: large; color: #0468e1;">Well, the last cache I had in this area disappeared too often. So let's try one here! <img src="/images/icons/icon_smile.gif" border="0" align="middle" /></p>
+<p style="text-align: center; font-size: large; color: #023a7e;">This shouldn't be too hard of a find. Should be winter friendly if the snow doesn't get too high!</p>
+
+<!-- Template -->
+<p>&nbsp;</p>
+<p style="text-align: center; font-size: large;"><em>~ Congrats on FTF to Lovebug Family! ~</em></p>
+
+<!-- A cache by 'PuterBoy -->
+<p style="text-align: center;"><a title="'PuterBoy" href="http://www.jordanjudt.com/" target="_blank"><img src="http://img.jordanjudt.com/puterboy" alt="'PuterBoy" width="250" /></a></p>
+
+<!-- Nebraskache/GoNE -->
+<table style="margin-left: auto; margin-right: auto; height: 160px;" width="522">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle;">
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank"><img src="http://img.jordanjudt.com/nebraskache" alt="Nebraskache Logo" width="175" /></a></p>
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank">Nebraskache Yahoo Group</a>
+<br><a title="Nebraskache - Facebook" href="https://www.facebook.com/groups/nebraskache/" target="_blank">Nebraskache Facebook Page</a></p>
+</td>
+
+<td style="vertical-align: middle; text-align: center;">
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank"><img src="http://geocachersofne.com/logo/support_logo.jpg" alt="Supporter of GoNE" width="125" /></a></p>
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank">GoNE Website</a>
+<br><a title="GoNE (Geocachers of NEbraska) - Facebook" href="https://www.facebook.com/groups/GeocachersofNE/" target="_blank">GoNE Facebook Page</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>

@@ -1,0 +1,43 @@
+<!-- Cache info -->
+<p style="text-align:center; font-size: 24px; color: #ff0000;">Cache is not at the listed coordinates!</p>
+<p style="text-align: center; font-size: large; color: #0468e1;">The listed coordinates will instead take you to the College of Arts and Sciences--where I learned how to make this puzzle! (Among other things [:P])</p>
+
+<p style="text-align: center; font-size: large; color: #023a7e;">The below program (rather, part of a program--known as an Object) is written in Java. The final values of the variables "finalNorth" and "finalWest" after instantiating this Object will give the final coordinates. In other words, start running this program by going line by line, and figure out what the final value of those variables will be based on the calculations made by the program.</p>
+<p style="text-align: center; font-size: large; color: #0468e1;">The final container is small, with room for small trackables and trade items. I may have forgotten to add swag, so feel free to do so if I haven't done so yet! Use stealth as needed, and good luck!</p>
+<p>&nbsp;</p>
+
+<!-- Puzzle -->
+<p align="center"><img src="https://s3.amazonaws.com/gs-geo-images/075f696d-c47b-4e16-8457-f96f9574da44_l.png"></p>
+<p align="center">&nbsp;</p>
+
+<!-- Geochecker -->
+<p align="center"><a target="_blank" href="http://geocheck.org/geo_inputchkcoord.php?gid=6264924020c1dfc-691e-4305-9e58-8841f1215f19"><img src="http://geocheck.org/geocheck_small.php?gid=6264924020c1dfc-691e-4305-9e58-8841f1215f19" title="Check your solution" border="0"></a></p>
+
+<!-- Template -->
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center; font-size: large;"><em>~ Congrats on FTF to KD0XD and wy0v! ~</em></p>
+
+<!-- A cache by 'PuterBoy -->
+<p style="text-align: center;"><a title="'PuterBoy" href="http://www.jordanjudt.com/" target="_blank"><img src="http://www.jordanjudt.com/uploads/4/9/1/8/4918012/cacheby-puterboy_orig.png" alt="'PuterBoy" width="250" height="122" /></a></p>
+
+<!-- Nebraskache/GoNE -->
+<table style="margin-left: auto; margin-right: auto; height: 160px;" width="522">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle;">
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank"><img src="http://www.jordanjudt.com/uploads/4/9/1/8/4918012/nebraskache.jpg" alt="Nebraskache Logo" width="175" height="88" border="0" /></a></p>
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank">Nebraskache Yahoo Group</a>
+<br><a title="Nebraskache - Facebook" href="https://www.facebook.com/groups/nebraskache/" target="_blank">Nebraskache Facebook Page</a></p>
+</td>
+
+<td style="vertical-align: middle; text-align: center;">
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank"><img src="http://geocachersofne.com/logo/support_logo.jpg" alt="Supporter of GoNE" width="125" height="129" border="0" /></a></p>
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank">GoNE Website</a>
+<br><a title="GoNE (Geocachers of NEbraska) - Facebook" href="https://www.facebook.com/groups/GeocachersofNE/" target="_blank">GoNE Facebook Page</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>

@@ -1,0 +1,35 @@
+<!-- Cache info -->
+<p style="text-align: center; font-size: medium; color: #0468e1;">Hello from Midwest USA! While GeoJudt and I were vacationing here on beautiful Grand Cayman, we thought we'd leave behind some fun for the residents and future tourists.</p>
+<p style="text-align: center; font-size: medium; color: #023a7e;">This cache will take you to a unique area. Watch the shore for a moment. Certainly you'll notice the blast of water shooting into the air...aka a blowhole! You'll learn more at the nearby Earthcache.</p>
+<p style="text-align: center; font-size: medium; color: #0468e1;">The cache is located along the stairs that lead from the road down to the shore. Make sure to replace it as you found it, and use stealth if the area is busy! There is a pulloff area across the road where you can safely park.</p>
+
+<!-- Template -->
+<p style="text-align: center;">&nbsp;</p>
+<p style="text-align: center; font-size: large;"><em>~ Congrats on FTF to justinvandenbroek! ~</em></p>
+
+<!-- A cache by 'PuterBoy -->
+<p style="text-align: center;"><a title="'PuterBoy" href="http://www.jordanjudt.com/" target="_blank"><img src="http://img.jordanjudt.com/puterboy" alt="'PuterBoy" width="250" /></a></p>
+
+<!-- Nebraskache/GoNE -->
+<table style="margin-left: auto; margin-right: auto; height: 160px;" width="522">
+<tbody>
+<tr>
+<td style="text-align: center; vertical-align: middle;">
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank"><img src="http://img.jordanjudt.com/nebraskache" alt="Nebraskache Logo" width="175" /></a></p>
+<p><a title="Nebraskache - Yahoo Groups" href="http://groups.yahoo.com/group/Nebraskache/" target="_blank">Nebraskache Yahoo Group</a>
+<br><a title="Nebraskache - Facebook" href="https://www.facebook.com/groups/nebraskache/" target="_blank">Nebraskache Facebook Page</a></p>
+</td>
+
+<td style="vertical-align: middle; text-align: center;">
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank"><img src="http://geocachersofne.com/logo/support_logo.jpg" alt="Supporter of GoNE" width="125" /></a></p>
+<p><a title="Geocachers of Nebraska" href="http://www.geocachersofne.com/" target="_blank">GoNE Website</a>
+<br><a title="GoNE (Geocachers of NEbraska) - Facebook" href="https://www.facebook.com/groups/GeocachersofNE/" target="_blank">GoNE Facebook Page</a></p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p>&nbsp;</p>
+<p style="text-align:center;"><font size="1">Note: Venture_forth has agreed to maintain this cache as needed.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
