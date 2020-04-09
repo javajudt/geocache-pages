@@ -12,8 +12,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC6PRZM]`](https://coord.info/GC6PRZM) [?Puzzle?](caches/_Puzzle_.html)
 
-[`[GC70NP2]`](https://coord.info/GC70NP2) [1001 Stanford St](caches/1001StanfordSt.html)
-
 [`[GC45KW7]`](https://coord.info/GC45KW7) [12 Lumps O' Coal for BBM&J #5 - Purple Prancer](caches/12LumpsCoalPurplePrancer.html)
 
 [`[GC320NY]`](https://coord.info/GC320NY) [A Bridge? I Must Have Blinked....](caches/BridgeMustHaveBlinked.html)
@@ -153,8 +151,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC3BMRE]`](https://coord.info/GC3BMRE) [Pawnee Park: 212°](caches/PawneePark212.html)
 
 [`[GC70NP4]`](https://coord.info/GC70NP4) [Pump 'n Cache](caches/PumpNCache.html)
-
-[`[GC70J14]`](https://coord.info/GC70J14) [Shakespeare Garden at USD](caches/ShakespeareGardenUSD.html)
 
 [`[GC7TDNV]`](https://coord.info/GC7TDNV) [Signal 98 | KGHQ 98.3 FM](caches/Signal98.html)
 
@@ -333,8 +329,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC6PRZM]`](https://coord.info/GC6PRZM) [?Puzzle?](caches/_Puzzle_.html)
 
-[`[GC70NP2]`](https://coord.info/GC70NP2) [1001 Stanford St](caches/1001StanfordSt.html)
-
 [`[GC70NP6]`](https://coord.info/GC70NP6) [A Small Fence](caches/SmallFence.html)
 
 [`[GC5MDX5]`](https://coord.info/GC5MDX5) [Creek Cache 317](caches/CreekCache317.html)
@@ -358,8 +352,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC6PRZD]`](https://coord.info/GC6PRZD) [Nygaard Field](caches/NygaardField.html)
 
 [`[GC70NP4]`](https://coord.info/GC70NP4) [Pump 'n Cache](caches/PumpNCache.html)
-
-[`[GC70J14]`](https://coord.info/GC70J14) [Shakespeare Garden at USD](caches/ShakespeareGardenUSD.html)
 
 [`[GC70EYY]`](https://coord.info/GC70EYY) [St. Agnes/Fairview Cemetery - SDSQ](caches/StAgnesFairviewCem.html)
 
@@ -412,8 +404,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 <details>
 <summary>Traditional</summary>
-
-[`[GC70NP2]`](https://coord.info/GC70NP2) [1001 Stanford St](caches/1001StanfordSt.html)
 
 [`[GC45KW7]`](https://coord.info/GC45KW7) [12 Lumps O' Coal for BBM&J #5 - Purple Prancer](caches/12LumpsCoalPurplePrancer.html)
 
@@ -516,8 +506,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC8M2TE]`](https://coord.info/GC8M2TE) [Park Lane](caches/ParkLane.html)
 
 [`[GC70NP4]`](https://coord.info/GC70NP4) [Pump 'n Cache](caches/PumpNCache.html)
-
-[`[GC70J14]`](https://coord.info/GC70J14) [Shakespeare Garden at USD](caches/ShakespeareGardenUSD.html)
 
 [`[GC2ABGF]`](https://coord.info/GC2ABGF) [Skyview Main Entrance](caches/SkyviewMainEntrance.html)
 
