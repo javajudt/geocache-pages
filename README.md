@@ -118,8 +118,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3W7KP]`](https://coord.info/GC3W7KP) [GBR Trail BONUS #2 - A Chemist's Tree](caches/GBRBonus2AChemistsTree.html)
 
-[`[GC7H043]`](https://coord.info/GC7H043) [Happy New Year!](caches/HappyNewYear.html)
-
 [`[GC5CV7V]`](https://coord.info/GC5CV7V) [Hungry for Buffet?](caches/HungryForBuffet.html)
 
 [`[GC70NP3]`](https://coord.info/GC70NP3) [It's a Billboard](caches/ItsBillboard.html)
@@ -339,8 +337,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC70M57]`](https://coord.info/GC70M57) [Flying High](caches/FlyingHigh.html)
 
-[`[GC7H043]`](https://coord.info/GC7H043) [Happy New Year!](caches/HappyNewYear.html)
-
 [`[GC5CV7V]`](https://coord.info/GC5CV7V) [Hungry for Buffet?](caches/HungryForBuffet.html)
 
 [`[GC70NP3]`](https://coord.info/GC70NP3) [It's a Billboard](caches/ItsBillboard.html)
@@ -480,8 +476,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC3W7JJ]`](https://coord.info/GC3W7JJ) [GBR Trail #98](caches/GBR98.html)
 
 [`[GC3W7JA]`](https://coord.info/GC3W7JA) [GBR Trail #99 - Not 66](caches/GBR99Not66.html)
-
-[`[GC7H043]`](https://coord.info/GC7H043) [Happy New Year!](caches/HappyNewYear.html)
 
 [`[GC5CV7V]`](https://coord.info/GC5CV7V) [Hungry for Buffet?](caches/HungryForBuffet.html)
 
