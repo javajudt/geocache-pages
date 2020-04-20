@@ -138,8 +138,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC7XC3A]`](https://coord.info/GC7XC3A) [Nyeeeerm](caches/Nyeeeerm.html)
 
-[`[GC6PRZD]`](https://coord.info/GC6PRZD) [Nygaard Field](caches/NygaardField.html)
-
 [`[GC472NK]`](https://coord.info/GC472NK) [Onça Pintada--Jaguar](caches/OncaPintadaJaguar.html)
 
 [`[GC28NTB]`](https://coord.info/GC28NTB) [p.boy's Peek-a-Boo (I see you!)](caches/pboysPeekABoo.html)
@@ -345,8 +343,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC5MXV9]`](https://coord.info/GC5MXV9) [NE MMR Green](caches/NEMMRGreen.html)
 
-[`[GC6PRZD]`](https://coord.info/GC6PRZD) [Nygaard Field](caches/NygaardField.html)
-
 [`[GC70NP4]`](https://coord.info/GC70NP4) [Pump 'n Cache](caches/PumpNCache.html)
 
 [`[GC70EYY]`](https://coord.info/GC70EYY) [St. Agnes/Fairview Cemetery - SDSQ](caches/StAgnesFairviewCem.html)
@@ -492,8 +488,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC8KTWK]`](https://coord.info/GC8KTWK) [Norfolk's Own Bimini](caches/NorfolksOwnBimini.html)
 
 [`[GC7XC3A]`](https://coord.info/GC7XC3A) [Nyeeeerm](caches/Nyeeeerm.html)
-
-[`[GC6PRZD]`](https://coord.info/GC6PRZD) [Nygaard Field](caches/NygaardField.html)
 
 [`[GC28NTB]`](https://coord.info/GC28NTB) [p.boy's Peek-a-Boo (I see you!)](caches/pboysPeekABoo.html)
 
