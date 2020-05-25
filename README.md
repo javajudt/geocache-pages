@@ -26,11 +26,7 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC7XC2T]`](https://coord.info/GC7XC2T) [Allbery Cemetery - NESQ](caches/AllberyCemeteryNESQ.html)
 
-[`[GC32MW7]`](https://coord.info/GC32MW7) [Cowboy Trail Utilization: Mile 11](caches/CowboyTrailUtilizationMile11.html)
-
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
-
-[`[GC5MDX5]`](https://coord.info/GC5MDX5) [Creek Cache 317](caches/CreekCache317.html)
 
 [`[GC6PRYN]`](https://coord.info/GC6PRYN) [DakotaDome & Arena](caches/DakotaDome&Arena.html)
 
@@ -199,8 +195,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC7XC2T]`](https://coord.info/GC7XC2T) [Allbery Cemetery - NESQ](caches/AllberyCemeteryNESQ.html)
 
-[`[GC32MW7]`](https://coord.info/GC32MW7) [Cowboy Trail Utilization: Mile 11](caches/CowboyTrailUtilizationMile11.html)
-
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
 
 [`[GC8M3DX]`](https://coord.info/GC8M3DX) [Doggo's Throne](caches/DoggosThrone.html)
@@ -327,8 +321,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC70NP6]`](https://coord.info/GC70NP6) [A Small Fence](caches/SmallFence.html)
 
-[`[GC5MDX5]`](https://coord.info/GC5MDX5) [Creek Cache 317](caches/CreekCache317.html)
-
 [`[GC6PRYN]`](https://coord.info/GC6PRYN) [DakotaDome & Arena](caches/DakotaDome&Arena.html)
 
 [`[GC70M5B]`](https://coord.info/GC70M5B) [Fill Up with a Cup of Joe](caches/FillUpCupOfJoe.html)
@@ -409,11 +401,7 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC7XC2T]`](https://coord.info/GC7XC2T) [Allbery Cemetery - NESQ](caches/AllberyCemeteryNESQ.html)
 
-[`[GC32MW7]`](https://coord.info/GC32MW7) [Cowboy Trail Utilization: Mile 11](caches/CowboyTrailUtilizationMile11.html)
-
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
-
-[`[GC5MDX5]`](https://coord.info/GC5MDX5) [Creek Cache 317](caches/CreekCache317.html)
 
 [`[GC6PRYN]`](https://coord.info/GC6PRYN) [DakotaDome & Arena](caches/DakotaDome&Arena.html)
 
