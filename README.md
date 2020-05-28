@@ -28,6 +28,8 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
 
+[`[GC32MWC]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
+
 [`[GC6PRYN]`](https://coord.info/GC6PRYN) [DakotaDome & Arena](caches/DakotaDome&Arena.html)
 
 [`[GC8M3DX]`](https://coord.info/GC8M3DX) [Doggo's Throne](caches/DoggosThrone.html)
@@ -164,6 +166,8 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC77N8B]`](https://coord.info/GC77N8B) [We Built this Campus with Sioux Quartzite](caches/WeBuiltThisCampusWithSiouxQuarzite.html)
 
+[`[GC77N8B]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
+
 [`[GC6Q91V]`](https://coord.info/GC6Q91V) [When Doves Cry](caches/WhenDovesCry.html)
 
 [`[GC7H035]`](https://coord.info/GC7H035) [Winter Solstice](caches/WinterSolstice.html)
@@ -192,6 +196,8 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC7XC2T]`](https://coord.info/GC7XC2T) [Allbery Cemetery - NESQ](caches/AllberyCemeteryNESQ.html)
 
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
+
+[`[GC32MWC]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
 
 [`[GC8M3DX]`](https://coord.info/GC8M3DX) [Doggo's Throne](caches/DoggosThrone.html)
 
@@ -290,6 +296,8 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC7WAAQ]`](https://coord.info/GC7WAAQ) [Vroom Vroom](caches/VroomVroom.html)
 
 [`[GC7XC4T]`](https://coord.info/GC7XC4T) [Warnerville](caches/Warnerville.html)
+
+[`[GC77N8B]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
 
 [`[GC8M2V1]`](https://coord.info/GC8M2V1) [Woodland Park East 1](caches/WoodlandParkEast1.html)
 
@@ -395,6 +403,8 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
 
+[`[GC32MWC]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
+
 [`[GC6PRYN]`](https://coord.info/GC6PRYN) [DakotaDome & Arena](caches/DakotaDome&Arena.html)
 
 [`[GC8M3DX]`](https://coord.info/GC8M3DX) [Doggo's Throne](caches/DoggosThrone.html)
@@ -488,6 +498,8 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC7WAAQ]`](https://coord.info/GC7WAAQ) [Vroom Vroom](caches/VroomVroom.html)
 
 [`[GC7XC4T]`](https://coord.info/GC7XC4T) [Warnerville](caches/Warnerville.html)
+
+[`[GC77N8B]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
 
 [`[GC6Q91V]`](https://coord.info/GC6Q91V) [When Doves Cry](caches/WhenDovesCry.html)
 
