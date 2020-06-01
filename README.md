@@ -62,8 +62,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3TN8K]`](https://coord.info/GC3TN8K) [GBR Trail #52 - Let's Craft a Mine!](caches/GBR52LetsCraftAMine.html)
 
-[`[GC3TN84]`](https://coord.info/GC3TN84) [GBR Trail #53](caches/GBR53.html)
-
 [`[GC3TN7M]`](https://coord.info/GC3TN7M) [GBR Trail #54](caches/GBR54.html)
 
 [`[GC3T71V]`](https://coord.info/GC3T71V) [GBR Trail #57 - Was hast du gesagt?](caches/GBR57WasHastDuGesagt.html)
@@ -103,8 +101,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC3W7K0]`](https://coord.info/GC3W7K0) [GBR Trail #91](caches/GBR91.html)
 
 [`[GC7ZYKC]`](https://coord.info/GC7ZYKC) [GBR Trail #95.1](caches/GBR951.html)
-
-[`[GC3W7JV]`](https://coord.info/GC3W7JV) [GBR Trail #96 - It's a 1/4!!](caches/GBR96ItsA14.html)
 
 [`[GC3W7JJ]`](https://coord.info/GC3W7JJ) [GBR Trail #98](caches/GBR98.html)
 
@@ -221,8 +217,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3TN8K]`](https://coord.info/GC3TN8K) [GBR Trail #52 - Let's Craft a Mine!](caches/GBR52LetsCraftAMine.html)
 
-[`[GC3TN84]`](https://coord.info/GC3TN84) [GBR Trail #53](caches/GBR53.html)
-
 [`[GC3TN7M]`](https://coord.info/GC3TN7M) [GBR Trail #54](caches/GBR54.html)
 
 [`[GC3T71V]`](https://coord.info/GC3T71V) [GBR Trail #57 - Was hast du gesagt?](caches/GBR57WasHastDuGesagt.html)
@@ -262,8 +256,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC3W7K0]`](https://coord.info/GC3W7K0) [GBR Trail #91](caches/GBR91.html)
 
 [`[GC7ZYKC]`](https://coord.info/GC7ZYKC) [GBR Trail #95.1](caches/GBR951.html)
-
-[`[GC3W7JV]`](https://coord.info/GC3W7JV) [GBR Trail #96 - It's a 1/4!!](caches/GBR96ItsA14.html)
 
 [`[GC3W7JJ]`](https://coord.info/GC3W7JJ) [GBR Trail #98](caches/GBR98.html)
 
@@ -429,8 +421,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3TN9A]`](https://coord.info/GC3TN9A) [GBR Trail #51 - Electrifying](caches/GBR51Electrifying.html)
 
-[`[GC3TN84]`](https://coord.info/GC3TN84) [GBR Trail #53](caches/GBR53.html)
-
 [`[GC3TN7M]`](https://coord.info/GC3TN7M) [GBR Trail #54](caches/GBR54.html)
 
 [`[GC3TN3A]`](https://coord.info/GC3TN3A) [GBR Trail #60](caches/GBR60.html)
@@ -558,8 +548,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3VDJ6]`](https://coord.info/GC3VDJ6) [GBR Trail #78 - Message in a Bottle](caches/GBR78MessageInABottle.html)
 
-[`[GC3W7JV]`](https://coord.info/GC3W7JV) [GBR Trail #96 - It's a 1/4!!](caches/GBR96ItsA14.html)
-
 [`[GC3W7KP]`](https://coord.info/GC3W7KP) [GBR Trail BONUS #2 - A Chemist's Tree](caches/GBRBonus2AChemistsTree.html)
 
 [`[GC339YF]`](https://coord.info/GC339YF) [Math Mania](caches/MathMania.html)
@@ -608,8 +596,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3TN8K]`](https://coord.info/GC3TN8K) [GBR Trail #52 - Let's Craft a Mine!](caches/GBR52LetsCraftAMine.html)
 
-[`[GC3TN84]`](https://coord.info/GC3TN84) [GBR Trail #53](caches/GBR53.html)
-
 [`[GC3TN7M]`](https://coord.info/GC3TN7M) [GBR Trail #54](caches/GBR54.html)
 
 [`[GC3T71V]`](https://coord.info/GC3T71V) [GBR Trail #57 - Was hast du gesagt?](caches/GBR57WasHastDuGesagt.html)
@@ -649,8 +635,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC3W7K0]`](https://coord.info/GC3W7K0) [GBR Trail #91](caches/GBR91.html)
 
 [`[GC7ZYKC]`](https://coord.info/GC7ZYKC) [GBR Trail #95.1](caches/GBR951.html)
-
-[`[GC3W7JV]`](https://coord.info/GC3W7JV) [GBR Trail #96 - It's a 1/4!!](caches/GBR96ItsA14.html)
 
 [`[GC3W7JJ]`](https://coord.info/GC3W7JJ) [GBR Trail #98](caches/GBR98.html)
 
