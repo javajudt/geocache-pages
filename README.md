@@ -28,13 +28,11 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
 
-[`[GC32MWC]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
+[`[GC8RTBQ]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
 
 [`[GC6PRYN]`](https://coord.info/GC6PRYN) [DakotaDome & Arena](caches/DakotaDome&Arena.html)
 
 [`[GC8M3DX]`](https://coord.info/GC8M3DX) [Doggo's Throne](caches/DoggosThrone.html)
-
-[`[GC34ED1]`](https://coord.info/GC34ED1) [Doodloopstraat](caches/Doodloopstraat.html)
 
 [`[GC4EXQX]`](https://coord.info/GC4EXQX) [Elkhorn Erosion at Yellowbanks](caches/ElkhornErosionYellowbanks.html)
 
@@ -144,6 +142,8 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC70EYY]`](https://coord.info/GC70EYY) [St. Agnes/Fairview Cemetery - SDSQ](caches/StAgnesFairviewCem.html)
 
+[`[GC8TG0H]`](https://coord.info/GC8TG0H) [St. Patrick's Cemetery - NESQ](caches/StPatricksCemeteryNESQ.html)
+
 [`[GC8M2TP]`](https://coord.info/GC8M2TP) [The East Addition](caches/EastAddition.html)
 
 [`[GC6PRZ6]`](https://coord.info/GC6PRZ6) [The University of South Dakota Campus Tour](caches/USDCampusTour.html)
@@ -162,7 +162,9 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC77N8B]`](https://coord.info/GC77N8B) [We Built this Campus with Sioux Quartzite](caches/WeBuiltThisCampusWithSiouxQuarzite.html)
 
-[`[GC77N8B]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
+[`[GC8TG2T]`](https://coord.info/GC8TG2T) [Welcome to Battle Creek ~ East](caches/WelcomeBattleCreekEast.html)
+
+[`[GC8RTDK]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
 
 [`[GC6Q91V]`](https://coord.info/GC6Q91V) [When Doves Cry](caches/WhenDovesCry.html)
 
@@ -193,7 +195,7 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
 
-[`[GC32MWC]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
+[`[GC8RTBQ]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
 
 [`[GC8M3DX]`](https://coord.info/GC8M3DX) [Doggo's Throne](caches/DoggosThrone.html)
 
@@ -283,13 +285,17 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC2ABGF]`](https://coord.info/GC2ABGF) [Skyview Main Entrance](caches/SkyviewMainEntrance.html)
 
+[`[GC8TG0H]`](https://coord.info/GC8TG0H) [St. Patrick's Cemetery - NESQ](caches/StPatricksCemeteryNESQ.html)
+
 [`[GC8M2TP]`](https://coord.info/GC8M2TP) [The East Addition](caches/EastAddition.html)
 
 [`[GC7WAAQ]`](https://coord.info/GC7WAAQ) [Vroom Vroom](caches/VroomVroom.html)
 
 [`[GC7XC4T]`](https://coord.info/GC7XC4T) [Warnerville](caches/Warnerville.html)
 
-[`[GC77N8B]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
+[`[GC8TG2T]`](https://coord.info/GC8TG2T) [Welcome to Battle Creek ~ East](caches/WelcomeBattleCreekEast.html)
+
+[`[GC8RTDK]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
 
 [`[GC8M2V1]`](https://coord.info/GC8M2V1) [Woodland Park East 1](caches/WoodlandParkEast1.html)
 
@@ -349,12 +355,6 @@ Below you will find all caches in this repository organized by name, region, cac
 </details>
 
 <details>
-<summary>Yankton, SD</summary>
-
-[`[GC34ED1]`](https://coord.info/GC34ED1) [Doodloopstraat](caches/Doodloopstraat.html)
-</details>
-
-<details>
 <summary>Sioux Falls, SD</summary>
 
 [`[GC7AD4W]`](https://coord.info/GC7AD4W) [A Squiggly Cache](caches/SquigglyCache.html)
@@ -395,7 +395,7 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
 
-[`[GC32MWC]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
+[`[GC8RTBQ]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
 
 [`[GC6PRYN]`](https://coord.info/GC6PRYN) [DakotaDome & Arena](caches/DakotaDome&Arena.html)
 
@@ -475,6 +475,8 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC70EYY]`](https://coord.info/GC70EYY) [St. Agnes/Fairview Cemetery - SDSQ](caches/StAgnesFairviewCem.html)
 
+[`[GC8TG0H]`](https://coord.info/GC8TG0H) [St. Patrick's Cemetery - NESQ](caches/StPatricksCemeteryNESQ.html)
+
 [`[GC8M2TP]`](https://coord.info/GC8M2TP) [The East Addition](caches/EastAddition.html)
 
 [`[GC70NP1]`](https://coord.info/GC70NP1) [Urban Woods](caches/UrbanWoods.html)
@@ -489,7 +491,9 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC7XC4T]`](https://coord.info/GC7XC4T) [Warnerville](caches/Warnerville.html)
 
-[`[GC77N8B]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
+[`[GC8TG2T]`](https://coord.info/GC8TG2T) [Welcome to Battle Creek ~ East](caches/WelcomeBattleCreekEast.html)
+
+[`[GC8RTDK]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
 
 [`[GC6Q91V]`](https://coord.info/GC6Q91V) [When Doves Cry](caches/WhenDovesCry.html)
 
@@ -531,8 +535,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC6PRZM]`](https://coord.info/GC6PRZM) [?Puzzle?](caches/_Puzzle_.html)
 
 [`[GC8M2VJ]`](https://coord.info/GC8M2VJ) [Adventurers of Draecothas 🎲 Bonus Cache](caches/AdventurersDraecothasPrequelBonusCache.html)
-
-[`[GC34ED1]`](https://coord.info/GC34ED1) [Doodloopstraat](caches/Doodloopstraat.html)
 
 [`[GC3TN8K]`](https://coord.info/GC3TN8K) [GBR Trail #52 - Let's Craft a Mine!](caches/GBR52LetsCraftAMine.html)
 
@@ -579,8 +581,27 @@ Below you will find all caches in this repository organized by name, region, cac
 </details>
 
 <details>
-<summary>GBR Trail</summary>
+<summary>Series</summary>
 <blockquote>
+
+<details>
+<summary>Nebraska Spirit Quest</summary>
+
+[`[GC7XC2T]`](https://coord.info/GC7XC2T) [Allbery Cemetery - NESQ](caches/AllberyCemeteryNESQ.html)
+
+[`[GC8TG0H]`](https://coord.info/GC8TG0H) [St. Patrick's Cemetery - NESQ](caches/StPatricksCemeteryNESQ.html)
+</details>
+
+<details>
+<summary>Cowboy Trail Utilization</summary>
+
+[`[GC32MWC]`](https://coord.info/GC32MWC) [Cowboy Trail Utilization: Mile 14](caches/CowboyTrailUtilizationMile14.html)
+
+[`[GC8RTBQ]`](https://coord.info/GC8RTBQ) [CTU Mile 10.5](caches/CTU105.html)
+</details>
+
+<details>
+<summary>GBR Trail</summary>
 
 [`[GC3T84X]`](https://coord.info/GC3T84X) [GBR Trail #42](caches/GBR42.html)
 
@@ -641,5 +662,7 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC3W7JA]`](https://coord.info/GC3W7JA) [GBR Trail #99 - Not 66](caches/GBR99Not66.html)
 
 [`[GC3W7KP]`](https://coord.info/GC3W7KP) [GBR Trail BONUS #2 - A Chemist's Tree](caches/GBRBonus2AChemistsTree.html)
+</details>
+
 </blockquote>
 </details>
