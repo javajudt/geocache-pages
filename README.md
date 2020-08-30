@@ -158,8 +158,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC8RTDK]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
 
-[`[GC6Q91V]`](https://coord.info/GC6Q91V) [When Doves Cry](caches/WhenDovesCry.html)
-
 [`[GC7H035]`](https://coord.info/GC7H035) [Winter Solstice](caches/WinterSolstice.html)
 
 [`[GC8M2V1]`](https://coord.info/GC8M2V1) [Woodland Park East 1](caches/WoodlandParkEast1.html)
@@ -333,8 +331,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC77N8B]`](https://coord.info/GC77N8B) [We Built this Campus with Sioux Quartzite](caches/WeBuiltThisCampusWithSiouxQuarzite.html)
 
-[`[GC6Q91V]`](https://coord.info/GC6Q91V) [When Doves Cry](caches/WhenDovesCry.html)
-
 [`[GC7H035]`](https://coord.info/GC7H035) [Winter Solstice](caches/WinterSolstice.html)
 </details>
 
@@ -472,8 +468,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC8TG2T]`](https://coord.info/GC8TG2T) [Welcome to Battle Creek ~ East](caches/WelcomeBattleCreekEast.html)
 
 [`[GC8RTDK]`](https://coord.info/GC8RTDK) [Welcome to Battle Creek ~ West](caches/WelcomeBattleCreekWest.html)
-
-[`[GC6Q91V]`](https://coord.info/GC6Q91V) [When Doves Cry](caches/WhenDovesCry.html)
 
 [`[GC7H035]`](https://coord.info/GC7H035) [Winter Solstice](caches/WinterSolstice.html)
 
