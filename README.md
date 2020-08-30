@@ -58,8 +58,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3TN9A]`](https://coord.info/GC3TN9A) [GBR Trail #51 - Electrifying](caches/GBR51Electrifying.html)
 
-[`[GC3TN8K]`](https://coord.info/GC3TN8K) [GBR Trail #52 - Let's Craft a Mine!](caches/GBR52LetsCraftAMine.html)
-
 [`[GC3TN7M]`](https://coord.info/GC3TN7M) [GBR Trail #54](caches/GBR54.html)
 
 [`[GC3T71V]`](https://coord.info/GC3T71V) [GBR Trail #57 - Was hast du gesagt?](caches/GBR57WasHastDuGesagt.html)
@@ -76,15 +74,9 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3W7HH]`](https://coord.info/GC3W7HH) [GBR Trail #67 - Brogren Reservoir](caches/GBR67BrogrenReservoir.html)
 
-[`[GC3W7H4]`](https://coord.info/GC3W7H4) [GBR Trail #69](caches/GBR69.html)
-
-[`[GC3VGKE]`](https://coord.info/GC3VGKE) [GBR Trail #72](caches/GBR72.html)
-
 [`[GC3VDR3]`](https://coord.info/GC3VDR3) [GBR Trail #74 - Tag, Signs, Squiggly...Oh My!](caches/GBR74TagSignsSquigglyOhMy.html)
 
 [`[GC3VDPG]`](https://coord.info/GC3VDPG) [GBR Trail #75 - Who's on First](caches/GBR75WhosOnFirst.html)
-
-[`[GC3VDJ0]`](https://coord.info/GC3VDJ0) [GBR Trail #76](caches/GBR76.html)
 
 [`[GC3VDJ6]`](https://coord.info/GC3VDJ6) [GBR Trail #78 - Message in a Bottle](caches/GBR78MessageInABottle.html)
 
@@ -217,8 +209,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3TN9A]`](https://coord.info/GC3TN9A) [GBR Trail #51 - Electrifying](caches/GBR51Electrifying.html)
 
-[`[GC3TN8K]`](https://coord.info/GC3TN8K) [GBR Trail #52 - Let's Craft a Mine!](caches/GBR52LetsCraftAMine.html)
-
 [`[GC3TN7M]`](https://coord.info/GC3TN7M) [GBR Trail #54](caches/GBR54.html)
 
 [`[GC3T71V]`](https://coord.info/GC3T71V) [GBR Trail #57 - Was hast du gesagt?](caches/GBR57WasHastDuGesagt.html)
@@ -235,15 +225,9 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3W7HH]`](https://coord.info/GC3W7HH) [GBR Trail #67 - Brogren Reservoir](caches/GBR67BrogrenReservoir.html)
 
-[`[GC3W7H4]`](https://coord.info/GC3W7H4) [GBR Trail #69](caches/GBR69.html)
-
-[`[GC3VGKE]`](https://coord.info/GC3VGKE) [GBR Trail #72](caches/GBR72.html)
-
 [`[GC3VDR3]`](https://coord.info/GC3VDR3) [GBR Trail #74 - Tag, Signs, Squiggly...Oh My!](caches/GBR74TagSignsSquigglyOhMy.html)
 
 [`[GC3VDPG]`](https://coord.info/GC3VDPG) [GBR Trail #75 - Who's on First](caches/GBR75WhosOnFirst.html)
-
-[`[GC3VDJ0]`](https://coord.info/GC3VDJ0) [GBR Trail #76](caches/GBR76.html)
 
 [`[GC3VDJ6]`](https://coord.info/GC3VDJ6) [GBR Trail #78 - Message in a Bottle](caches/GBR78MessageInABottle.html)
 
@@ -429,12 +413,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3W7HH]`](https://coord.info/GC3W7HH) [GBR Trail #67 - Brogren Reservoir](caches/GBR67BrogrenReservoir.html)
 
-[`[GC3W7H4]`](https://coord.info/GC3W7H4) [GBR Trail #69](caches/GBR69.html)
-
-[`[GC3VGKE]`](https://coord.info/GC3VGKE) [GBR Trail #72](caches/GBR72.html)
-
-[`[GC3VDJ0]`](https://coord.info/GC3VDJ0) [GBR Trail #76](caches/GBR76.html)
-
 [`[GC7ZYKK]`](https://coord.info/GC7ZYKK) [GBR Trail #79.1 - Bethlehem Cemetery](caches/GBR791BethlehemCem.html)
 
 [`[GC3VDP6]`](https://coord.info/GC3VDP6) [GBR Trail #80 - Minimum Maintenance Stop Sign](caches/GBR80MinMaintStopSign.html)
@@ -536,8 +514,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC8M2VJ]`](https://coord.info/GC8M2VJ) [Adventurers of Draecothas 🎲 Bonus Cache](caches/AdventurersDraecothasPrequelBonusCache.html)
 
-[`[GC3TN8K]`](https://coord.info/GC3TN8K) [GBR Trail #52 - Let's Craft a Mine!](caches/GBR52LetsCraftAMine.html)
-
 [`[GC3T71V]`](https://coord.info/GC3T71V) [GBR Trail #57 - Was hast du gesagt?](caches/GBR57WasHastDuGesagt.html)
 
 [`[GC3TN3K]`](https://coord.info/GC3TN3K) [GBR Trail #58 - Let's Get Televised!](caches/GBR58LetsGetTelevised.html)
@@ -615,8 +591,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3TN9A]`](https://coord.info/GC3TN9A) [GBR Trail #51 - Electrifying](caches/GBR51Electrifying.html)
 
-[`[GC3TN8K]`](https://coord.info/GC3TN8K) [GBR Trail #52 - Let's Craft a Mine!](caches/GBR52LetsCraftAMine.html)
-
 [`[GC3TN7M]`](https://coord.info/GC3TN7M) [GBR Trail #54](caches/GBR54.html)
 
 [`[GC3T71V]`](https://coord.info/GC3T71V) [GBR Trail #57 - Was hast du gesagt?](caches/GBR57WasHastDuGesagt.html)
@@ -633,15 +607,9 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC3W7HH]`](https://coord.info/GC3W7HH) [GBR Trail #67 - Brogren Reservoir](caches/GBR67BrogrenReservoir.html)
 
-[`[GC3W7H4]`](https://coord.info/GC3W7H4) [GBR Trail #69](caches/GBR69.html)
-
-[`[GC3VGKE]`](https://coord.info/GC3VGKE) [GBR Trail #72](caches/GBR72.html)
-
 [`[GC3VDR3]`](https://coord.info/GC3VDR3) [GBR Trail #74 - Tag, Signs, Squiggly...Oh My!](caches/GBR74TagSignsSquigglyOhMy.html)
 
 [`[GC3VDPG]`](https://coord.info/GC3VDPG) [GBR Trail #75 - Who's on First](caches/GBR75WhosOnFirst.html)
-
-[`[GC3VDJ0]`](https://coord.info/GC3VDJ0) [GBR Trail #76](caches/GBR76.html)
 
 [`[GC3VDJ6]`](https://coord.info/GC3VDJ6) [GBR Trail #78 - Message in a Bottle](caches/GBR78MessageInABottle.html)
 
