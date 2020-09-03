@@ -14,8 +14,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC45KW7]`](https://coord.info/GC45KW7) [12 Lumps O' Coal for BBM&J #5 - Purple Prancer](caches/12LumpsCoalPurplePrancer.html)
 
-[`[GC320NY]`](https://coord.info/GC320NY) [A Bridge? I Must Have Blinked....](caches/BridgeMustHaveBlinked.html)
-
 [`[GC68XHA]`](https://coord.info/GC68XHA) [A Penny for your Thoughts](caches/PennyForYourThoughts.html)
 
 [`[GC70NP6]`](https://coord.info/GC70NP6) [A Small Fence](caches/SmallFence.html)
@@ -148,8 +146,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC5CV6E]`](https://coord.info/GC5CV6E) [Verm-Mart](caches/VermMart.html)
 
-[`[GC7WAAQ]`](https://coord.info/GC7WAAQ) [Vroom Vroom](caches/VroomVroom.html)
-
 [`[GC7XC4T]`](https://coord.info/GC7XC4T) [Warnerville](caches/Warnerville.html)
 
 [`[GC77N8B]`](https://coord.info/GC77N8B) [We Built this Campus with Sioux Quartzite](caches/WeBuiltThisCampusWithSiouxQuarzite.html)
@@ -174,8 +170,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 <details>
 <summary>Norfolk, NE</summary>
-
-[`[GC320NY]`](https://coord.info/GC320NY) [A Bridge? I Must Have Blinked....](caches/BridgeMustHaveBlinked.html)
 
 [`[GC68XHA]`](https://coord.info/GC68XHA) [A Penny for your Thoughts](caches/PennyForYourThoughts.html)
 
@@ -270,8 +264,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC8TG0H]`](https://coord.info/GC8TG0H) [St. Patrick's Cemetery - NESQ](caches/StPatricksCemeteryNESQ.html)
 
 [`[GC8M2TP]`](https://coord.info/GC8M2TP) [The East Addition](caches/EastAddition.html)
-
-[`[GC7WAAQ]`](https://coord.info/GC7WAAQ) [Vroom Vroom](caches/VroomVroom.html)
 
 [`[GC7XC4T]`](https://coord.info/GC7XC4T) [Warnerville](caches/Warnerville.html)
 
@@ -363,8 +355,6 @@ Below you will find all caches in this repository organized by name, region, cac
 
 [`[GC45KW7]`](https://coord.info/GC45KW7) [12 Lumps O' Coal for BBM&J #5 - Purple Prancer](caches/12LumpsCoalPurplePrancer.html)
 
-[`[GC320NY]`](https://coord.info/GC320NY) [A Bridge? I Must Have Blinked....](caches/BridgeMustHaveBlinked.html)
-
 [`[GC68XHA]`](https://coord.info/GC68XHA) [A Penny for your Thoughts](caches/PennyForYourThoughts.html)
 
 [`[GC70NP6]`](https://coord.info/GC70NP6) [A Small Fence](caches/SmallFence.html)
@@ -460,8 +450,6 @@ Below you will find all caches in this repository organized by name, region, cac
 [`[GC7H04E]`](https://coord.info/GC7H04E) [Vermillion River at University Road](caches/VermillionRiverUniversityRoad.html)
 
 [`[GC5CV6E]`](https://coord.info/GC5CV6E) [Verm-Mart](caches/VermMart.html)
-
-[`[GC7WAAQ]`](https://coord.info/GC7WAAQ) [Vroom Vroom](caches/VroomVroom.html)
 
 [`[GC7XC4T]`](https://coord.info/GC7XC4T) [Warnerville](caches/Warnerville.html)
 
